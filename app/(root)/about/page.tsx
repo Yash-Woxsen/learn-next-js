@@ -1,8 +1,10 @@
 import React from "react";
 
 const page = () => {
+    throw new Error("Function not implemented.");
+
     return (
-        <div className="text-5xl">About</div>
+        <div>About</div>
     )
 }
 
